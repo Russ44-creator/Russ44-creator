@@ -5,7 +5,6 @@
 
 - 📝 I regularly write articles on [https://russ44-creator.github.io/about/](https://russ44-creator.github.io/about/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
